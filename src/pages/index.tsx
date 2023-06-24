@@ -24,9 +24,10 @@ export default function Home() {
                     </span>
                 </h1>
 
-                <p className="leading-7 [&:not(:first-child)]:mt-6 max-w-md text-lg">
+                <p className="leading-7 [&:not(:first-child)]:mt-6 max-w-lg text-lg">
                     Capture, <s className="text-muted-foreground">organize,</s>{" "}
                     and share knowledge amongst your team with less effort.
+                    Remember anything instantly.
                 </p>
 
                 <div className="mt-10 flex max-w-fit space-x-4 mx-auto">
